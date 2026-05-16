@@ -1,20 +1,20 @@
 {
   "name": "Porch",
-  "version": "0.0.55",
+  "version": "0.0.56",
   "channel": "stable",
   "repo": "porch-chat/porch",
-  "generatedAt": "2026-05-16T18:25:45.819Z",
-  "commitSha": "068279e926839a08489592f30898aa1919700491",
+  "generatedAt": "2026-05-16T18:39:14.043Z",
+  "commitSha": "6c7aa456cc10697eb7c2fe9e71f8cc3a86b04a11",
   "pagesBaseUrl": "https://updates.porch.chat",
   "web": {
-    "version": "0.0.55",
-    "buildId": "0.0.55-068279e92683",
-    "commitSha": "068279e926839a08489592f30898aa1919700491",
+    "version": "0.0.56",
+    "buildId": "0.0.56-6c7aa456cc10",
+    "commitSha": "6c7aa456cc10697eb7c2fe9e71f8cc3a86b04a11",
     "serviceWorker": "/sw.js",
     "updateMode": "service-worker"
   },
   "server": {
-    "version": "0.0.55",
+    "version": "0.0.56",
     "available": false,
     "updateMode": "multi-service-docker-or-binary",
     "manifest": "https://updates.porch.chat/stable/server.json",
@@ -54,46 +54,46 @@
     "artifacts": []
   },
   "desktop": {
-    "version": "0.0.55",
+    "version": "0.0.56",
     "feedBaseUrl": "https://updates.porch.chat/desktop/",
     "platforms": {
       "windows": {
         "feed": "https://updates.porch.chat/desktop/windows/latest.yml",
         "files": [
           {
-            "name": "porch-0.0.55-windows-x64-setup.exe",
-            "path": "porch-0.0.55-windows-x64-setup.exe",
-            "url": "https://github.com/porch-chat/porch-updates/releases/download/v0.0.55/porch-0.0.55-windows-x64-setup.exe",
-            "size": 100393217,
-            "sha256": "727a6419f52495a0cd36057eee5f4d0f9b58d0fe697345ec65b6dd2973f2066e"
+            "name": "porch-0.0.56-windows-x64-portable.exe",
+            "path": "porch-0.0.56-windows-x64-portable.exe",
+            "url": "https://github.com/porch-chat/porch-updates/releases/download/v0.0.56/porch-0.0.56-windows-x64-portable.exe",
+            "size": 100165536,
+            "sha256": "c992471fe697f46fe2bbe3fbe7b6445115c57f70ae4841698ae35f8bec6558cd"
           },
           {
-            "name": "porch-0.0.55-windows-x64-portable.exe",
-            "path": "porch-0.0.55-windows-x64-portable.exe",
-            "url": "https://github.com/porch-chat/porch-updates/releases/download/v0.0.55/porch-0.0.55-windows-x64-portable.exe",
-            "size": 100165820,
-            "sha256": "0ef698d57d9939b64b68e4dd78d2074c1c165d1014cd5bbc083c994901a30fcb"
+            "name": "porch-0.0.56-windows-x64-setup.exe.blockmap",
+            "path": "porch-0.0.56-windows-x64-setup.exe.blockmap",
+            "url": "https://github.com/porch-chat/porch-updates/releases/download/v0.0.56/porch-0.0.56-windows-x64-setup.exe.blockmap",
+            "size": 105542,
+            "sha256": "f57731f4e4516a46c4d17a90966d0b719e6678387d6651a6cb92791ebf263d0f"
           },
           {
-            "name": "porch-0.0.55-windows-x64-setup.exe.blockmap",
-            "path": "porch-0.0.55-windows-x64-setup.exe.blockmap",
-            "url": "https://github.com/porch-chat/porch-updates/releases/download/v0.0.55/porch-0.0.55-windows-x64-setup.exe.blockmap",
-            "size": 105588,
-            "sha256": "dc73e35b4e33011ec4d6a1f65bb54757dff90d25841258e2f7b5e8541ec7c38d"
+            "name": "porch-0.0.56-windows-x64-setup.exe",
+            "path": "porch-0.0.56-windows-x64-setup.exe",
+            "url": "https://github.com/porch-chat/porch-updates/releases/download/v0.0.56/porch-0.0.56-windows-x64-setup.exe",
+            "size": 100392932,
+            "sha256": "b54f1b34efdf296296ec528a95e89ddf6c093c908405e9a3de6f59558d25056a"
           },
           {
             "name": "builder-debug.yml",
             "path": "builder-debug.yml",
-            "url": "https://github.com/porch-chat/porch-updates/releases/download/v0.0.55/builder-debug.yml",
+            "url": "https://github.com/porch-chat/porch-updates/releases/download/v0.0.56/builder-debug.yml",
             "size": 6203,
-            "sha256": "66254edfabea67375343d7d7b00e95e2181d4901d247fb89632bc2b84109e7e4"
+            "sha256": "84869bfc412075b077eb3a83d314aec167da46aa480a8200c1a7684b42ed0152"
           },
           {
             "name": "latest.yml",
             "path": "desktop/windows/latest.yml",
             "url": "https://updates.porch.chat/desktop/windows/latest.yml",
             "size": 506,
-            "sha256": "a759110d9ca9adfe3437043b50d2107cc4e5c325a4e1a4baa2c061330300a0de"
+            "sha256": "01f4c78e38eff2841b646251dc96971b1a15702a319b05dc259b53d07a7066ac"
           }
         ]
       },
@@ -101,30 +101,30 @@
         "feed": "https://updates.porch.chat/desktop/linux/latest-linux.yml",
         "files": [
           {
-            "name": "porch-0.0.55-linux-amd64.deb",
-            "path": "porch-0.0.55-linux-amd64.deb",
-            "url": "https://github.com/porch-chat/porch-updates/releases/download/v0.0.55/porch-0.0.55-linux-amd64.deb",
-            "size": 95192456,
-            "sha256": "65f8726d9dfe6798deffc25bbd18f465acd00147db7321dcd4e823e67e468a88"
+            "name": "porch-0.0.56-linux-x86_64.AppImage",
+            "path": "porch-0.0.56-linux-x86_64.AppImage",
+            "url": "https://github.com/porch-chat/porch-updates/releases/download/v0.0.56/porch-0.0.56-linux-x86_64.AppImage",
+            "size": 120696357,
+            "sha256": "6c724295ff47522039004908703b5a050392b94b2367238900dc6b0df0c0d1e9"
           },
           {
             "name": "latest-linux.yml",
             "path": "desktop/linux/latest-linux.yml",
             "url": "https://updates.porch.chat/desktop/linux/latest-linux.yml",
             "size": 759,
-            "sha256": "9021d907ae16c6f6b72889fd4b57b96866ac135010f6121d3ad5efe4c4384a42"
+            "sha256": "e7ceac33fb62c37cb0b3a958089970505e41944bcd751397a9183e40a1069bcf"
           },
           {
-            "name": "porch-0.0.55-linux-x86_64.AppImage",
-            "path": "porch-0.0.55-linux-x86_64.AppImage",
-            "url": "https://github.com/porch-chat/porch-updates/releases/download/v0.0.55/porch-0.0.55-linux-x86_64.AppImage",
-            "size": 120696445,
-            "sha256": "5376c7cf0ab6108c3fc07d3ba4cd6258131d30dca6f8265070c6806ef1ef6729"
+            "name": "porch-0.0.56-linux-amd64.deb",
+            "path": "porch-0.0.56-linux-amd64.deb",
+            "url": "https://github.com/porch-chat/porch-updates/releases/download/v0.0.56/porch-0.0.56-linux-amd64.deb",
+            "size": 95193820,
+            "sha256": "bbfde8d26cbfe5ee66e8aa54dba9349ff98c24aa9e32ddffda1b931bf2e3a27f"
           },
           {
             "name": "builder-debug.yml",
             "path": "builder-debug.yml",
-            "url": "https://github.com/porch-chat/porch-updates/releases/download/v0.0.55/builder-debug.yml",
+            "url": "https://github.com/porch-chat/porch-updates/releases/download/v0.0.56/builder-debug.yml",
             "size": 841,
             "sha256": "c52c8dc7fbf1ced2490f485bd52ed4afad7f0d0b18c9c7ba794cbc8ff8b19aa3"
           }
