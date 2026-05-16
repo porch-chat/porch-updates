@@ -1,8 +1,8 @@
 version: 0.0.38
 files:
-  - url: https://github.com/dilllxd/porch-updates/releases/download/v0.0.38/porch-0.0.38-windows-x64-setup.exe
+  - url: https://github.com/porch-chat/porch-updates/releases/download/v0.0.38/porch-0.0.38-windows-x64-setup.exe
     sha512: KqODaFpjpKhKrWCzpoU35MEkvsZh2iDpiw2BF70hlzNz6VGtng5lqejesCne5NLxajb2kP4FaFSsfJgr418fYA==
     size: 100358923
-path: https://github.com/dilllxd/porch-updates/releases/download/v0.0.38/porch-0.0.38-windows-x64-setup.exe
+path: https://github.com/porch-chat/porch-updates/releases/download/v0.0.38/porch-0.0.38-windows-x64-setup.exe
 sha512: KqODaFpjpKhKrWCzpoU35MEkvsZh2iDpiw2BF70hlzNz6VGtng5lqejesCne5NLxajb2kP4FaFSsfJgr418fYA==
 releaseDate: '2026-05-15T19:20:59.493Z'

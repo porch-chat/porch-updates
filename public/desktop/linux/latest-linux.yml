@@ -1,12 +1,12 @@
 version: 0.0.38
 files:
-  - url: https://github.com/dilllxd/porch-updates/releases/download/v0.0.38/porch-0.0.38-linux-x86_64.AppImage
+  - url: https://github.com/porch-chat/porch-updates/releases/download/v0.0.38/porch-0.0.38-linux-x86_64.AppImage
     sha512: SZwGtewziMS4Rds8bqcMIjMnqfEf35SDPSqhnMhmD8nuWiiJvPBMQnthCSG854kfw7YI6oaCP2iBWteN7tQLGw==
     size: 120688302
     blockMapSize: 126658
-  - url: https://github.com/dilllxd/porch-updates/releases/download/v0.0.38/porch-0.0.38-linux-amd64.deb
+  - url: https://github.com/porch-chat/porch-updates/releases/download/v0.0.38/porch-0.0.38-linux-amd64.deb
     sha512: K6r9wpABp3xWB9zmrAXQvTjpDFNwM3zOu/3RpDUvBNCHjFc8hiMlRKWwxobPL+lOFgx26IBy5a7lR0cUVCGUeA==
     size: 95181708
-path: https://github.com/dilllxd/porch-updates/releases/download/v0.0.38/porch-0.0.38-linux-x86_64.AppImage
+path: https://github.com/porch-chat/porch-updates/releases/download/v0.0.38/porch-0.0.38-linux-x86_64.AppImage
 sha512: SZwGtewziMS4Rds8bqcMIjMnqfEf35SDPSqhnMhmD8nuWiiJvPBMQnthCSG854kfw7YI6oaCP2iBWteN7tQLGw==
 releaseDate: '2026-05-15T19:19:11.570Z'

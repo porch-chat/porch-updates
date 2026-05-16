@@ -8,6 +8,6 @@ is larger than GitHub's normal per-file git limit.
 
 Stable download URLs:
 
-- `https://github.com/dilllxd/porch-updates/releases/latest/download/PorchSetup.exe`
-- `https://github.com/dilllxd/porch-updates/releases/latest/download/Porch.AppImage`
-- `https://github.com/dilllxd/porch-updates/releases/latest/download/porch-linux-amd64.deb`
+- `https://github.com/porch-chat/porch-updates/releases/latest/download/PorchSetup.exe`
+- `https://github.com/porch-chat/porch-updates/releases/latest/download/Porch.AppImage`
+- `https://github.com/porch-chat/porch-updates/releases/latest/download/porch-linux-amd64.deb`
