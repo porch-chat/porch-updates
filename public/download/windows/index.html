@@ -2,13 +2,30 @@
 <html lang="en">
   <head>
     <meta charset="utf-8" />
-    <meta http-equiv="refresh" content="0; url=https://github.com/porch-chat/porch-updates/releases/latest/download/PorchSetup.exe" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
     <title>Downloading Porch for Windows</title>
+    <style>
+      body{align-items:center;background:#101312;color:#fff7ec;display:flex;font-family:Inter,ui-sans-serif,system-ui,sans-serif;justify-content:center;margin:0;min-height:100vh;padding:24px}
+      main{background:rgba(255,247,236,.07);border:1px solid rgba(255,247,236,.16);border-radius:12px;max-width:460px;padding:28px;text-align:center}
+      a{background:#fff7ec;border-radius:8px;color:#101312;display:none;font-weight:900;margin-top:14px;padding:13px 18px;text-decoration:none}
+      a.visible{display:inline-flex}
+      p{color:#d2c5b4;line-height:1.5}
+    </style>
     <script>
-      window.location.replace('https://github.com/porch-chat/porch-updates/releases/latest/download/PorchSetup.exe');
+      const target = 'https://github.com/porch-chat/porch-updates/releases/latest/download/PorchSetup.exe';
+      window.addEventListener('load', () => {
+        const link = document.querySelector('a');
+        link.href = target;
+        setTimeout(() => window.location.assign(target), 350);
+        setTimeout(() => link.classList.add('visible'), 2400);
+      });
     </script>
   </head>
   <body>
-    <a href="https://github.com/porch-chat/porch-updates/releases/latest/download/PorchSetup.exe">Download Porch for Windows</a>
+    <main>
+      <h1>Starting your download</h1>
+      <p>Porch for Windows should begin downloading in a moment.</p>
+      <a href="https://github.com/porch-chat/porch-updates/releases/latest/download/PorchSetup.exe">Download now</a>
+    </main>
   </body>
 </html>
