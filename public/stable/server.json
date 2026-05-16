@@ -1,0 +1,35 @@
+{
+  "version": "0.0.38",
+  "available": true,
+  "updateMode": "docker-or-binary",
+  "manifest": "https://updates.porch.chat/server/release.json",
+  "artifacts": [
+    {
+      "name": "porch-linux-x64",
+      "target": "linux-x64",
+      "size": 115222656,
+      "checksum": "fa87cb99342ab65acbbe3b03dd6cea5814caef54d7214b58ba671bb0cc73d7e8",
+      "path": "porch-linux-x64",
+      "url": "https://github.com/dilllxd/porch-updates/releases/download/v0.0.38/porch-linux-x64",
+      "sha256": "fa87cb99342ab65acbbe3b03dd6cea5814caef54d7214b58ba671bb0cc73d7e8"
+    },
+    {
+      "name": "porch-linux-arm64",
+      "target": "linux-arm64",
+      "size": 113682576,
+      "checksum": "1fa13ccc5b4f328446b02056c1810dfe8846eca69ea4caca835d73cb16cf0e46",
+      "path": "porch-linux-arm64",
+      "url": "https://github.com/dilllxd/porch-updates/releases/download/v0.0.38/porch-linux-arm64",
+      "sha256": "1fa13ccc5b4f328446b02056c1810dfe8846eca69ea4caca835d73cb16cf0e46"
+    },
+    {
+      "name": "porch-windows-x64.exe",
+      "target": "windows-x64",
+      "size": 114374144,
+      "checksum": "5d0590e07d6dd113f85d0da33aaf376a4217741a4a12e506d35a6b20e1a9e901",
+      "path": "porch-windows-x64.exe",
+      "url": "https://github.com/dilllxd/porch-updates/releases/download/v0.0.38/porch-windows-x64.exe",
+      "sha256": "5d0590e07d6dd113f85d0da33aaf376a4217741a4a12e506d35a6b20e1a9e901"
+    }
+  ]
+}
