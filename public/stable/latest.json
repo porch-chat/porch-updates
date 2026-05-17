@@ -1,20 +1,20 @@
 {
   "name": "Porch",
-  "version": "0.0.65",
+  "version": "0.0.66",
   "channel": "stable",
   "repo": "porch-chat/porch",
-  "generatedAt": "2026-05-17T20:19:30.680Z",
-  "commitSha": "70041c181d65506fe1fefb22e7d1f6225dedb59d",
+  "generatedAt": "2026-05-17T20:32:44.083Z",
+  "commitSha": "470361134c4f2e0fe58234268c52eb3ee35d8de5",
   "pagesBaseUrl": "https://updates.porch.chat",
   "web": {
-    "version": "0.0.65",
-    "buildId": "0.0.65-70041c181d65",
-    "commitSha": "70041c181d65506fe1fefb22e7d1f6225dedb59d",
+    "version": "0.0.66",
+    "buildId": "0.0.66-470361134c4f",
+    "commitSha": "470361134c4f2e0fe58234268c52eb3ee35d8de5",
     "serviceWorker": "/sw.js",
     "updateMode": "service-worker"
   },
   "server": {
-    "version": "0.0.65",
+    "version": "0.0.66",
     "available": false,
     "updateMode": "multi-service-docker-or-binary",
     "manifest": "https://updates.porch.chat/stable/server.json",
@@ -54,39 +54,39 @@
     "artifacts": []
   },
   "desktop": {
-    "version": "0.0.65",
+    "version": "0.0.66",
     "feedBaseUrl": "https://updates.porch.chat/desktop/",
     "platforms": {
       "windows": {
         "feed": "https://updates.porch.chat/desktop/windows/latest.yml",
         "files": [
           {
-            "name": "porch-0.0.65-windows-x64-setup.exe.blockmap",
-            "path": "porch-0.0.65-windows-x64-setup.exe.blockmap",
-            "url": "https://github.com/porch-chat/porch-updates/releases/download/v0.0.65/porch-0.0.65-windows-x64-setup.exe.blockmap",
-            "size": 105589,
-            "sha256": "69863d45caefe39f251591c5f2e9bfaee077a478b71ad83060f65e9795c74640"
+            "name": "porch-0.0.66-windows-x64-setup.exe",
+            "path": "porch-0.0.66-windows-x64-setup.exe",
+            "url": "https://github.com/porch-chat/porch-updates/releases/download/v0.0.66/porch-0.0.66-windows-x64-setup.exe",
+            "size": 100400534,
+            "sha256": "8e5235562b3dca5821c0a46008ce272d3560ed6bc6b1d0ad2640797a18846a4a"
           },
           {
-            "name": "porch-0.0.65-windows-x64-setup.exe",
-            "path": "porch-0.0.65-windows-x64-setup.exe",
-            "url": "https://github.com/porch-chat/porch-updates/releases/download/v0.0.65/porch-0.0.65-windows-x64-setup.exe",
-            "size": 100399756,
-            "sha256": "6c54a012f987428f19fa2b70138db9bfd8ae7f03e9ae358c2c750767e618c3d3"
+            "name": "porch-0.0.66-windows-x64-setup.exe.blockmap",
+            "path": "porch-0.0.66-windows-x64-setup.exe.blockmap",
+            "url": "https://github.com/porch-chat/porch-updates/releases/download/v0.0.66/porch-0.0.66-windows-x64-setup.exe.blockmap",
+            "size": 105619,
+            "sha256": "8c4d09776a4ec8c9deb3a93197f3e3668d51bc2da87237ec19ab701bf950cfda"
           },
           {
             "name": "builder-debug.yml",
             "path": "builder-debug.yml",
-            "url": "https://github.com/porch-chat/porch-updates/releases/download/v0.0.65/builder-debug.yml",
+            "url": "https://github.com/porch-chat/porch-updates/releases/download/v0.0.66/builder-debug.yml",
             "size": 7437,
-            "sha256": "9e59f0e88bba59c53e5331035932ce7ad00c0070f7a646ff7e5f45139d164594"
+            "sha256": "e1b19b9caf51c159017bf0c817c0797a8751ce1df480a9f7861c887cc2c5de12"
           },
           {
             "name": "latest.yml",
             "path": "desktop/windows/latest.yml",
             "url": "https://updates.porch.chat/desktop/windows/latest.yml",
             "size": 506,
-            "sha256": "8c984f39e2bdb43721c280dd1ae9bcfa0ca02357b67f096f7135d6a8bc266222"
+            "sha256": "3ec2197bc005f0ccc05f72423053b4825bb0edc281da0346b9a5217ecd1641d3"
           }
         ]
       },
@@ -94,30 +94,30 @@
         "feed": "https://updates.porch.chat/desktop/linux/latest-linux.yml",
         "files": [
           {
-            "name": "porch-0.0.65-linux-amd64.deb",
-            "path": "porch-0.0.65-linux-amd64.deb",
-            "url": "https://github.com/porch-chat/porch-updates/releases/download/v0.0.65/porch-0.0.65-linux-amd64.deb",
-            "size": 95201392,
-            "sha256": "bb3ff54d388898a1420625085eaf595ebe29e97013da4133cbe549c2db395d16"
-          },
-          {
             "name": "latest-linux.yml",
             "path": "desktop/linux/latest-linux.yml",
             "url": "https://updates.porch.chat/desktop/linux/latest-linux.yml",
             "size": 759,
-            "sha256": "23ebd55375d8e7e0171c5ebe1385b7a31adbd3ff0cb07fc6cf6844ae6bb159e5"
+            "sha256": "2557354dd4218abc4242a3c78c12b209bc0b0c97d82ee4ca934417874f7d53ff"
           },
           {
-            "name": "porch-0.0.65-linux-x86_64.AppImage",
-            "path": "porch-0.0.65-linux-x86_64.AppImage",
-            "url": "https://github.com/porch-chat/porch-updates/releases/download/v0.0.65/porch-0.0.65-linux-x86_64.AppImage",
-            "size": 120708784,
-            "sha256": "e7ef77d7aacdb417f2cf5908c5d4b307805ca17be829b403448db186d8fb0431"
+            "name": "porch-0.0.66-linux-x86_64.AppImage",
+            "path": "porch-0.0.66-linux-x86_64.AppImage",
+            "url": "https://github.com/porch-chat/porch-updates/releases/download/v0.0.66/porch-0.0.66-linux-x86_64.AppImage",
+            "size": 120708704,
+            "sha256": "8bd5764cf83e51ae3f666cb00b26b151785dffbe2ae4ed12330735f3e740927f"
+          },
+          {
+            "name": "porch-0.0.66-linux-amd64.deb",
+            "path": "porch-0.0.66-linux-amd64.deb",
+            "url": "https://github.com/porch-chat/porch-updates/releases/download/v0.0.66/porch-0.0.66-linux-amd64.deb",
+            "size": 95199352,
+            "sha256": "6fffa4e49c87eadb24ed4aa45c9dc75301a440c9cd2e71732389e892d3095e9e"
           },
           {
             "name": "builder-debug.yml",
             "path": "builder-debug.yml",
-            "url": "https://github.com/porch-chat/porch-updates/releases/download/v0.0.65/builder-debug.yml",
+            "url": "https://github.com/porch-chat/porch-updates/releases/download/v0.0.66/builder-debug.yml",
             "size": 841,
             "sha256": "c52c8dc7fbf1ced2490f485bd52ed4afad7f0d0b18c9c7ba794cbc8ff8b19aa3"
           }
