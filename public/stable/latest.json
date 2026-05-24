@@ -1,20 +1,20 @@
 {
   "name": "Porch",
-  "version": "0.0.71",
+  "version": "0.0.72",
   "channel": "stable",
   "repo": "porch-chat/porch",
-  "generatedAt": "2026-05-24T02:19:30.841Z",
-  "commitSha": "642ec475817beb0c126af9da507419bd538f5e2a",
+  "generatedAt": "2026-05-24T02:29:25.204Z",
+  "commitSha": "ed3c2aa24753c336d9b18aa6074500b37a97e737",
   "pagesBaseUrl": "https://updates.porch.chat",
   "web": {
-    "version": "0.0.71",
-    "buildId": "0.0.71-642ec475817b",
-    "commitSha": "642ec475817beb0c126af9da507419bd538f5e2a",
+    "version": "0.0.72",
+    "buildId": "0.0.72-ed3c2aa24753",
+    "commitSha": "ed3c2aa24753c336d9b18aa6074500b37a97e737",
     "serviceWorker": "/sw.js",
     "updateMode": "service-worker"
   },
   "server": {
-    "version": "0.0.71",
+    "version": "0.0.72",
     "available": false,
     "updateMode": "multi-service-docker-or-binary",
     "manifest": "https://updates.porch.chat/stable/server.json",
@@ -54,32 +54,32 @@
     "artifacts": []
   },
   "desktop": {
-    "version": "0.0.71",
+    "version": "0.0.72",
     "feedBaseUrl": "https://updates.porch.chat/desktop/",
     "platforms": {
       "windows": {
         "feed": "https://updates.porch.chat/desktop/windows/latest.yml",
         "files": [
           {
-            "name": "porch-0.0.70-windows-x64-setup.exe",
-            "path": "porch-0.0.70-windows-x64-setup.exe",
-            "url": "https://github.com/porch-chat/porch-updates/releases/download/v0.0.71/porch-0.0.70-windows-x64-setup.exe",
-            "size": 100400758,
-            "sha256": "64528cde675726aaaecd49f02f9256806471ffc07311a23dc6a22b6ab0d66027"
+            "name": "porch-0.0.72-windows-x64-setup.exe.blockmap",
+            "path": "porch-0.0.72-windows-x64-setup.exe.blockmap",
+            "url": "https://github.com/porch-chat/porch-updates/releases/download/v0.0.72/porch-0.0.72-windows-x64-setup.exe.blockmap",
+            "size": 105571,
+            "sha256": "df260f3fc720ff7c5b984111e0a6e5463ff7c91c7689b83a34044e9416120dc6"
           },
           {
-            "name": "porch-0.0.70-windows-x64-setup.exe.blockmap",
-            "path": "porch-0.0.70-windows-x64-setup.exe.blockmap",
-            "url": "https://github.com/porch-chat/porch-updates/releases/download/v0.0.71/porch-0.0.70-windows-x64-setup.exe.blockmap",
-            "size": 105585,
-            "sha256": "66a55b540ec1ed4a7524f03f006bfa03da85bfd22dd313f30c94429f2bfe8567"
+            "name": "porch-0.0.72-windows-x64-setup.exe",
+            "path": "porch-0.0.72-windows-x64-setup.exe",
+            "url": "https://github.com/porch-chat/porch-updates/releases/download/v0.0.72/porch-0.0.72-windows-x64-setup.exe",
+            "size": 100402174,
+            "sha256": "6b4ecf09d9f737a7fcb41bdae380ef730a48874ace7ba4ba979cc1b54e9cda5d"
           },
           {
             "name": "latest.yml",
             "path": "desktop/windows/latest.yml",
             "url": "https://updates.porch.chat/desktop/windows/latest.yml",
             "size": 506,
-            "sha256": "c6d70a021ede417e695af710f727a7e0bef85c85f47a27000ce34043d547062d"
+            "sha256": "79ead8cc48159886569eeb70dd3d10a5df452092eae2bf1d44b3e6bc77fd6e14"
           }
         ]
       },
@@ -91,35 +91,35 @@
             "path": "desktop/linux/latest-linux.yml",
             "url": "https://updates.porch.chat/desktop/linux/latest-linux.yml",
             "size": 759,
-            "sha256": "cf81cc365be20dc61cddb1370d4198c3d98366eb3b15137c9be2efa19cba9814"
+            "sha256": "4c7bed7dad54b2468593e848c3e92c9c2bd9a9e1698e4c252789938b848122f9"
           },
           {
             "name": "Porch.AppImage",
             "path": "Porch.AppImage",
-            "url": "https://github.com/porch-chat/porch-updates/releases/download/v0.0.71/Porch.AppImage",
-            "size": 120708815,
-            "sha256": "88f387eb4474116213bc6ba5f594606d394a76313b73a9dad1c786f41c2c8772"
+            "url": "https://github.com/porch-chat/porch-updates/releases/download/v0.0.72/Porch.AppImage",
+            "size": 120708760,
+            "sha256": "f005c84a910ea46d76491d9a56334aa3976343c0fa68e78180e0305c721d8eee"
           },
           {
             "name": "porch-linux-amd64.deb",
             "path": "porch-linux-amd64.deb",
-            "url": "https://github.com/porch-chat/porch-updates/releases/download/v0.0.71/porch-linux-amd64.deb",
-            "size": 95201840,
-            "sha256": "88f30202eee1589a4f9376a6541daef01e1671d895ea8edabcad1b77111e2ecf"
+            "url": "https://github.com/porch-chat/porch-updates/releases/download/v0.0.72/porch-linux-amd64.deb",
+            "size": 95201848,
+            "sha256": "4fad4bd2f2fe1660da53d9a40a7537750db00aeec7483253c3b4416c4334b532"
           },
           {
-            "name": "porch-0.0.70-linux-x86_64.AppImage",
-            "path": "porch-0.0.70-linux-x86_64.AppImage",
-            "url": "https://github.com/porch-chat/porch-updates/releases/download/v0.0.71/porch-0.0.70-linux-x86_64.AppImage",
-            "size": 120708815,
-            "sha256": "88f387eb4474116213bc6ba5f594606d394a76313b73a9dad1c786f41c2c8772"
+            "name": "porch-0.0.72-linux-amd64.deb",
+            "path": "porch-0.0.72-linux-amd64.deb",
+            "url": "https://github.com/porch-chat/porch-updates/releases/download/v0.0.72/porch-0.0.72-linux-amd64.deb",
+            "size": 95201848,
+            "sha256": "4fad4bd2f2fe1660da53d9a40a7537750db00aeec7483253c3b4416c4334b532"
           },
           {
-            "name": "porch-0.0.70-linux-amd64.deb",
-            "path": "porch-0.0.70-linux-amd64.deb",
-            "url": "https://github.com/porch-chat/porch-updates/releases/download/v0.0.71/porch-0.0.70-linux-amd64.deb",
-            "size": 95201840,
-            "sha256": "88f30202eee1589a4f9376a6541daef01e1671d895ea8edabcad1b77111e2ecf"
+            "name": "porch-0.0.72-linux-x86_64.AppImage",
+            "path": "porch-0.0.72-linux-x86_64.AppImage",
+            "url": "https://github.com/porch-chat/porch-updates/releases/download/v0.0.72/porch-0.0.72-linux-x86_64.AppImage",
+            "size": 120708760,
+            "sha256": "f005c84a910ea46d76491d9a56334aa3976343c0fa68e78180e0305c721d8eee"
           }
         ]
       }
