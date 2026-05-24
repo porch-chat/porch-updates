@@ -1,5 +1,5 @@
 {
-  "version": "0.0.74",
+  "version": "0.0.75",
   "available": false,
   "updateMode": "multi-service-docker-or-binary",
   "manifest": "https://updates.porch.chat/stable/server.json",
