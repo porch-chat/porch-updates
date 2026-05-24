@@ -1,20 +1,20 @@
 {
   "name": "Porch",
-  "version": "0.0.69",
+  "version": "0.0.70",
   "channel": "stable",
   "repo": "porch-chat/porch",
-  "generatedAt": "2026-05-24T00:46:07.436Z",
-  "commitSha": "765cae6f77169e47cd0ce2a80c7420d1a0418f39",
+  "generatedAt": "2026-05-24T00:57:43.975Z",
+  "commitSha": "ee5effd3ea069ff4fae29965362da14056e74d38",
   "pagesBaseUrl": "https://updates.porch.chat",
   "web": {
-    "version": "0.0.69",
-    "buildId": "0.0.69-765cae6f7716",
-    "commitSha": "765cae6f77169e47cd0ce2a80c7420d1a0418f39",
+    "version": "0.0.70",
+    "buildId": "0.0.70-ee5effd3ea06",
+    "commitSha": "ee5effd3ea069ff4fae29965362da14056e74d38",
     "serviceWorker": "/sw.js",
     "updateMode": "service-worker"
   },
   "server": {
-    "version": "0.0.69",
+    "version": "0.0.70",
     "available": false,
     "updateMode": "multi-service-docker-or-binary",
     "manifest": "https://updates.porch.chat/stable/server.json",
@@ -54,32 +54,32 @@
     "artifacts": []
   },
   "desktop": {
-    "version": "0.0.69",
+    "version": "0.0.70",
     "feedBaseUrl": "https://updates.porch.chat/desktop/",
     "platforms": {
       "windows": {
         "feed": "https://updates.porch.chat/desktop/windows/latest.yml",
         "files": [
           {
-            "name": "porch-0.0.69-windows-x64-setup.exe.blockmap",
-            "path": "porch-0.0.69-windows-x64-setup.exe.blockmap",
-            "url": "https://github.com/porch-chat/porch-updates/releases/download/v0.0.69/porch-0.0.69-windows-x64-setup.exe.blockmap",
-            "size": 105620,
-            "sha256": "342ecf2cecf52813bbc5d150aa13d41f4df3ffdffbc547f39aaa21ff5fc76c29"
+            "name": "porch-0.0.70-windows-x64-setup.exe",
+            "path": "porch-0.0.70-windows-x64-setup.exe",
+            "url": "https://github.com/porch-chat/porch-updates/releases/download/v0.0.70/porch-0.0.70-windows-x64-setup.exe",
+            "size": 100401715,
+            "sha256": "a9d7c076cf0f7b3bf27998ad7194d3f85fbe69b5ba63186e4b330ab48a91c4d6"
           },
           {
-            "name": "porch-0.0.69-windows-x64-setup.exe",
-            "path": "porch-0.0.69-windows-x64-setup.exe",
-            "url": "https://github.com/porch-chat/porch-updates/releases/download/v0.0.69/porch-0.0.69-windows-x64-setup.exe",
-            "size": 100401407,
-            "sha256": "1cb27fbb1898c54abf2f619c3c2f928587c52ab11c1c5ec0b915d2ebc9ed4087"
+            "name": "porch-0.0.70-windows-x64-setup.exe.blockmap",
+            "path": "porch-0.0.70-windows-x64-setup.exe.blockmap",
+            "url": "https://github.com/porch-chat/porch-updates/releases/download/v0.0.70/porch-0.0.70-windows-x64-setup.exe.blockmap",
+            "size": 105520,
+            "sha256": "d7956ec92ac85a4b1b7e8241f64a637c8aed2ae7854360a195e42d7d09d47035"
           },
           {
             "name": "latest.yml",
             "path": "desktop/windows/latest.yml",
             "url": "https://updates.porch.chat/desktop/windows/latest.yml",
             "size": 506,
-            "sha256": "fc158840e40d0d497a726bbb7fe65e46b64e187536766536f1f8152997d1decf"
+            "sha256": "cfe7f268423fbe22e47bfef8d93f187c3c6a3601bde760cd2062c2cdce5d2ff7"
           }
         ]
       },
@@ -87,39 +87,39 @@
         "feed": "https://updates.porch.chat/desktop/linux/latest-linux.yml",
         "files": [
           {
-            "name": "porch-0.0.69-linux-amd64.deb",
-            "path": "porch-0.0.69-linux-amd64.deb",
-            "url": "https://github.com/porch-chat/porch-updates/releases/download/v0.0.69/porch-0.0.69-linux-amd64.deb",
-            "size": 95197416,
-            "sha256": "94b5a2df2828ce942cfe076355cf2f333b449ebf86a6da41909f03c3bf89f705"
-          },
-          {
             "name": "latest-linux.yml",
             "path": "desktop/linux/latest-linux.yml",
             "url": "https://updates.porch.chat/desktop/linux/latest-linux.yml",
             "size": 759,
-            "sha256": "9714fca51245ea7e0f15e1d922efc962b730bae43c4b82ac97cf841402e65ffd"
+            "sha256": "2429cd3c8bf4008037630c36625a47459045660f6e9361a9cbfe3e6be3e3e5fb"
           },
           {
             "name": "Porch.AppImage",
             "path": "Porch.AppImage",
-            "url": "https://github.com/porch-chat/porch-updates/releases/download/v0.0.69/Porch.AppImage",
-            "size": 120708575,
-            "sha256": "8bbcc29bc4645a4472ef3c90d99297354d97c7afce8e3444363aee7da7c46c5b"
+            "url": "https://github.com/porch-chat/porch-updates/releases/download/v0.0.70/Porch.AppImage",
+            "size": 120708825,
+            "sha256": "b065541a677f023be801134fc2d7b4ea72676ff690b1e0a2614ca25d6b4b2662"
           },
           {
             "name": "porch-linux-amd64.deb",
             "path": "porch-linux-amd64.deb",
-            "url": "https://github.com/porch-chat/porch-updates/releases/download/v0.0.69/porch-linux-amd64.deb",
-            "size": 95197416,
-            "sha256": "94b5a2df2828ce942cfe076355cf2f333b449ebf86a6da41909f03c3bf89f705"
+            "url": "https://github.com/porch-chat/porch-updates/releases/download/v0.0.70/porch-linux-amd64.deb",
+            "size": 95201216,
+            "sha256": "95b78dabb7854e9de1b8a1779813defb3ffda5b1e048638771c898281e36afcf"
           },
           {
-            "name": "porch-0.0.69-linux-x86_64.AppImage",
-            "path": "porch-0.0.69-linux-x86_64.AppImage",
-            "url": "https://github.com/porch-chat/porch-updates/releases/download/v0.0.69/porch-0.0.69-linux-x86_64.AppImage",
-            "size": 120708575,
-            "sha256": "8bbcc29bc4645a4472ef3c90d99297354d97c7afce8e3444363aee7da7c46c5b"
+            "name": "porch-0.0.70-linux-x86_64.AppImage",
+            "path": "porch-0.0.70-linux-x86_64.AppImage",
+            "url": "https://github.com/porch-chat/porch-updates/releases/download/v0.0.70/porch-0.0.70-linux-x86_64.AppImage",
+            "size": 120708825,
+            "sha256": "b065541a677f023be801134fc2d7b4ea72676ff690b1e0a2614ca25d6b4b2662"
+          },
+          {
+            "name": "porch-0.0.70-linux-amd64.deb",
+            "path": "porch-0.0.70-linux-amd64.deb",
+            "url": "https://github.com/porch-chat/porch-updates/releases/download/v0.0.70/porch-0.0.70-linux-amd64.deb",
+            "size": 95201216,
+            "sha256": "95b78dabb7854e9de1b8a1779813defb3ffda5b1e048638771c898281e36afcf"
           }
         ]
       }
