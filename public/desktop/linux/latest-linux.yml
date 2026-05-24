@@ -1,12 +1,12 @@
-version: 0.0.77
+version: 0.0.78
 files:
-  - url: https://github.com/porch-chat/porch-updates/releases/download/v0.0.77/porch-0.0.77-linux-x86_64.AppImage
-    sha512: 3BzBn7wA4Y+Lb25BcHVIhg2S0wC79ALSFbGTpB/8kRxpbkxloClKRO2JtoPx8P0DF//3itB12MAbUiMF4YhDMQ==
-    size: 120712804
-    blockMapSize: 126584
-  - url: https://github.com/porch-chat/porch-updates/releases/download/v0.0.77/porch-0.0.77-linux-amd64.deb
-    sha512: pwSL4lSzGFwj5Fy5ALWPNHY4h1GMEPtZmGH8Mq9DlIuei2BNCPimmvXboZF9xoswUpwbjL/8P+kEV8fEOFAzaA==
-    size: 95205048
-path: https://github.com/porch-chat/porch-updates/releases/download/v0.0.77/porch-0.0.77-linux-x86_64.AppImage
-sha512: 3BzBn7wA4Y+Lb25BcHVIhg2S0wC79ALSFbGTpB/8kRxpbkxloClKRO2JtoPx8P0DF//3itB12MAbUiMF4YhDMQ==
-releaseDate: '2026-05-24T03:30:45.266Z'
+  - url: https://github.com/porch-chat/porch-updates/releases/download/v0.0.78/porch-0.0.78-linux-x86_64.AppImage
+    sha512: oTFtJGDvZwDoSdiDRfEILTiXtmTLfI7Ysphnxtr6W0MAZkwoX37oSDlQt1CC4A7UFL5tirCQPr2pSugP0W9McQ==
+    size: 120712926
+    blockMapSize: 126706
+  - url: https://github.com/porch-chat/porch-updates/releases/download/v0.0.78/porch-0.0.78-linux-amd64.deb
+    sha512: BRTcdeGHdDz4bYPNM7nVrOafAEoig/qJl5Wb2C60WI5JJxdDdpnprHk0wlboguDeiavCqN/jkhGhTXUXQNBUSw==
+    size: 95199776
+path: https://github.com/porch-chat/porch-updates/releases/download/v0.0.78/porch-0.0.78-linux-x86_64.AppImage
+sha512: oTFtJGDvZwDoSdiDRfEILTiXtmTLfI7Ysphnxtr6W0MAZkwoX37oSDlQt1CC4A7UFL5tirCQPr2pSugP0W9McQ==
+releaseDate: '2026-05-24T03:39:38.973Z'
