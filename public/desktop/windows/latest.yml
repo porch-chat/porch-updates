@@ -1,8 +1,8 @@
-version: 0.0.80
+version: 0.0.81
 files:
-  - url: https://github.com/porch-chat/porch-updates/releases/download/v0.0.80/porch-0.0.80-windows-x64-setup.exe
-    sha512: pEfUJDEYA0AGOjcM3AOmixQ0jZCuTHxyvupaVRG+jtsurbLOm0q9orrfqNI59CsHL5eTh/DlXCyCAHE0LfHpNQ==
-    size: 100410362
-path: https://github.com/porch-chat/porch-updates/releases/download/v0.0.80/porch-0.0.80-windows-x64-setup.exe
-sha512: pEfUJDEYA0AGOjcM3AOmixQ0jZCuTHxyvupaVRG+jtsurbLOm0q9orrfqNI59CsHL5eTh/DlXCyCAHE0LfHpNQ==
-releaseDate: '2026-05-26T15:04:24.831Z'
+  - url: https://github.com/porch-chat/porch-updates/releases/download/v0.0.81/porch-0.0.81-windows-x64-setup.exe
+    sha512: 3PSkc4ligUBwEHPLXn4fQpSmplN7IV6QsZNP7O8tDCGLgyGzefKVYthADbShwyrxJoVhWjrfGi1BG8O0rYq7TQ==
+    size: 100410779
+path: https://github.com/porch-chat/porch-updates/releases/download/v0.0.81/porch-0.0.81-windows-x64-setup.exe
+sha512: 3PSkc4ligUBwEHPLXn4fQpSmplN7IV6QsZNP7O8tDCGLgyGzefKVYthADbShwyrxJoVhWjrfGi1BG8O0rYq7TQ==
+releaseDate: '2026-05-26T15:24:01.447Z'
