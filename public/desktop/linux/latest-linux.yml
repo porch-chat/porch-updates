@@ -1,12 +1,12 @@
 version: 0.0.84
 files:
   - url: https://github.com/porch-chat/porch-updates/releases/download/v0.0.84/porch-0.0.84-linux-x86_64.AppImage
-    sha512: XysTbSJItYi1DagspWoNvuNVbK0UdTVXzcE6NZRnRP92TAFSlURUgL4RCfJeFSSuGtwt4cCf58qtAO6vq08/Ug==
-    size: 120700434
-    blockMapSize: 126502
+    sha512: 1vfwg/u+QWHO6uNOUR1dSyO4YUIFgScZ7HCf+nuMx7DPHPW60d/2svRHjS1DE0QssnevJvziAxXDyv0nGIAoyg==
+    size: 120700452
+    blockMapSize: 126520
   - url: https://github.com/porch-chat/porch-updates/releases/download/v0.0.84/porch-0.0.84-linux-amd64.deb
-    sha512: /c3yFxj+jooWQxmeBjE7CTjE9hnSv+UTVE1pDbwvP35YxX/26N8U7xapinU50ywTpE+DYqCxJuPx0v4J9oB4ag==
-    size: 95183788
+    sha512: UxrjNSBnC+69GA6qoZVhOb9aPP7AA70anSEEGRHagXrcxgqegDm6H9u9HaHI6JGXI6nG2UYsunxnIOW3lohxVA==
+    size: 95185460
 path: https://github.com/porch-chat/porch-updates/releases/download/v0.0.84/porch-0.0.84-linux-x86_64.AppImage
-sha512: XysTbSJItYi1DagspWoNvuNVbK0UdTVXzcE6NZRnRP92TAFSlURUgL4RCfJeFSSuGtwt4cCf58qtAO6vq08/Ug==
-releaseDate: '2026-06-30T17:24:54.254Z'
+sha512: 1vfwg/u+QWHO6uNOUR1dSyO4YUIFgScZ7HCf+nuMx7DPHPW60d/2svRHjS1DE0QssnevJvziAxXDyv0nGIAoyg==
+releaseDate: '2026-06-30T17:31:43.266Z'
